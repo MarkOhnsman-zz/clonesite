@@ -37,3 +37,39 @@
     background-color: #1a53ff;
     color: ghostwhite;
 }
+
+.third .form {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.email {
+    padding-top: 1%;
+    padding-right: 0px;
+}
+.map{
+    background: url(https://www.absolute-design.co.uk/uploads/cache/News_gm_demo_Large-1200x0.jpg) center center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+ .links {
+    background-color: black;
+}
+
+.links .fa {
+    text-decoration: none;
+    color: ghostwhite;
+    font-size: 30px;
+    padding: 2%;
+}
+.signature {
+    color: ghostwhite;
+    font-size: 12px;
+    padding-top: 1.5%;
+}
+.final{
+    background-color: black;    
+}
